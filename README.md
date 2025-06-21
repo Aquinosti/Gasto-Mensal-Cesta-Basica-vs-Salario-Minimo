@@ -1,5 +1,6 @@
 
-# 📊 Gasto Mensal com Cesta Básica vs Salário Mínimo – Panorama Nacional (2010–2025)
+# 📊 Gasto Mensal com Cesta Básica vs Salário Mínimo
+Panorama Nacional (2010–2025)
 
 ![Dashboard Screenshot](Custo_CestaBasica_vs_SalarioMinimo.png)
 
