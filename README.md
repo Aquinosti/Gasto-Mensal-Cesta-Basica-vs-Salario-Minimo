@@ -1,4 +1,3 @@
-
 # 📊 Gasto Mensal com Cesta Básica vs Salário Mínimo
 Panorama Nacional (2010–2025)
 
@@ -18,15 +17,30 @@ Oferecer uma visualização clara e acessível sobre o poder de compra dos brasi
 ## 🧾 Visão Geral do Dashboard
 
 ### 🔹 Indicadores Principais
-- **85 cidades analisadas**
-- **R$ 733,07**: média nacional da cesta básica em 2025
-- **R$ 1.520,00**: salário mínimo nacional em 2025
+- **204 cidades analisadas**
+- **R$ 665,56**: média nacional da cesta básica em 2023
+- **R$ 1.300,00**: salário mínimo nacional em 2023
 
 ### 🔹 Análises Disponíveis
 - **% de comprometimento do salário mínimo** por estado e região
 - **Gráfico histórico**: evolução do salário mínimo x custo da cesta (2010–2025)
-- **Mapa interativo** com custo por cidade
+- **Mapa interativo** com custo por cidade e tooltip detalhado
 - **Tabela por região** com valores e percentuais atualizados
+
+### ℹ️ Informações Detalhadas do Tooltip (Mapa)
+Ao passar o mouse sobre uma cidade no mapa, são exibidas informações completas como:
+- **Nome da cidade/UF**
+- **Valor da cesta básica**
+- **Salário mínimo vigente no ano selecionado**
+- **Porcentagem da cesta sobre o salário**
+- **Valor restante após o gasto com a cesta**
+
+Exemplo:
+- Goiânia, GO
+  - Custo da Cesta: R$ 670,85
+  - Salário Mínimo: R$ 1.300,00
+  - % do Salário: 51,52%
+  - Restante do Salário: R$ 631,15
 
 ---
 
