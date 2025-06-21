@@ -2,6 +2,8 @@
 Panorama Nacional (2010–2025)
 
 ![Dashboard Screenshot](Custo_CestaBasica_vs_SalarioMinimo.png)
+---
+![Dashboard Screenshot](Custo_CestaBasica_vs_SalarioMinimo_TOOLTIP.png)
 
 Este projeto apresenta um **dashboard interativo em Power BI** que analisa a evolução do custo mensal da cesta básica nas capitais brasileiras em relação ao salário mínimo nacional, no período de **2010 a 2025**.
 
