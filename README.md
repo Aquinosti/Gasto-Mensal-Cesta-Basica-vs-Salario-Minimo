@@ -47,7 +47,6 @@ Oferecer uma visualização clara e acessível sobre o poder de compra dos brasi
 ├── 📁 assets
 │   └── dashboard_2025.png (imagem do dashboard)
 ├── 📄 README.md
----├── 📄 dashboard.pbix
 └── 📄 LICENSE (opcional)
 ```
 
@@ -58,7 +57,6 @@ Oferecer uma visualização clara e acessível sobre o poder de compra dos brasi
 - Filtros interativos por cidade/estado
 - Variação percentual ano a ano (inflação e ganho real)
 - Análise por grupos alimentares da cesta
-- Integração com Power BI Service para visualização web
 
 ---
 
@@ -75,7 +73,6 @@ Oferecer uma visualização clara e acessível sobre o poder de compra dos brasi
 ## 📘 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).  
-Sinta-se livre para estudar, modificar e reutilizar com os devidos créditos.
 
 ---
 
