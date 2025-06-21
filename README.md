@@ -47,7 +47,7 @@ Oferecer uma visualização clara e acessível sobre o poder de compra dos brasi
 ├── 📁 assets
 │   └── dashboard_2025.png (imagem do dashboard)
 ├── 📄 README.md
-├── 📄 dashboard.pbix
+---├── 📄 dashboard.pbix
 └── 📄 LICENSE (opcional)
 ```
 
@@ -83,7 +83,7 @@ Sinta-se livre para estudar, modificar e reutilizar com os devidos créditos.
 
 **Valdivino A. Aquino**  
 Profissional de TI | Consultor em BI | Especialista em Power BI, Python e Dados Públicos  
-[LinkedIn](https://www.linkedin.com/in/valdivinoaquino) | [VisionIT Consulting](https://visionint.com.br)
+[LinkedIn](www.linkedin.com/in/valdivino-aquino-ti-goiania) | [VisionIT Consulting](https://visionint.com.br)
 
 ---
 
